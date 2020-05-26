@@ -16,6 +16,10 @@ No installations required
 Open index.html
 ```
 
+## Demo
+
+<a href="https://canvas.zense.co.in/HacKnight2K19/airHockey2/index.html">Project</a>
+
 ## Author
 
 👤 **Sri Harsha G**
