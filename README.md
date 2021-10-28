@@ -27,6 +27,11 @@ Open index.html
 * Website: https://gsri30.github.io/
 * Github: [@GSri30](https://github.com/GSri30)
 
+👤 **Sri Harsha G**
+
+* Website: https://dhamodhar-ddr.github.io/
+* Github: [@Dhamodhar-DDR](https://github.com/Dhamodhar-DDR)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
